@@ -1,5 +1,3 @@
-package Pong;
-
 import java.awt.Graphics;
 
 public interface Paddle {
