@@ -1,5 +1,3 @@
-package Pong;
-
 import java.awt.Color;
 import java.awt.Graphics;
 
